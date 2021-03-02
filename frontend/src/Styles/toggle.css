@@ -1,0 +1,20 @@
+li{
+    list-style-type: none;
+}
+
+.right_content>div{
+    margin-left: 10px;
+}
+
+h2{
+    text-align: center;
+}
+
+.ul_teh_osv>li{
+    text-align: center;
+}
+
+.div_osnova h4{
+    text-align: start;
+}
+
